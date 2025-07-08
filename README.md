@@ -88,21 +88,4 @@ All activity is saved in `bot.log` file.
 
 ---
 
-##  Submission Info
 
-Sent to:
-- saami@bajarangs.com
-- nagasai@bajarangs.com
-- CC: sonika@primetrade.ai
-
-Subject:
-
-```
-Junior Python Developer – Crypto Trading Bot
-```
-
----
-
-```
-Assignment completed by: Saurabh Singh
-```
